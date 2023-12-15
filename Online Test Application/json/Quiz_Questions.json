@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "choice1": "Paris",
+        "choice2": "London",
+        "choice3": "Rome",
+        "choice4": "Berlin",
+        "answer": 1
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "choice1": "Earth",
+        "choice2": "Mars",
+        "choice3": "Venus",
+        "choice4": "Jupiter",
+        "answer": 2
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "choice1": "Charles Dickens",
+        "choice2": "Jane Austen",
+        "choice3": "William Shakespeare",
+        "choice4": "Mark Twain",
+        "answer": 3
+    },
+    {
+        "question": "Who is the president of South Africa?",
+        "choice1": "Jacob Zuma",
+        "choice2": "Barack Obama",
+        "choice3": "Cyril Ramaphosa",
+        "choice4": "Julius Malema",
+        "answer": 3
+    },
+    {
+        "question": "How many provinces are in South Africa?",
+        "choice1": "11",
+        "choice2": "9",
+        "choice3": "24",
+        "choice4": "2",
+        "answer": 2
+    }
+]
